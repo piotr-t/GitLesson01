@@ -1,1 +1,1 @@
-console.log("This footer is the best, ok");
+console.log("This footer is the best, ok!!");
